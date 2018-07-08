@@ -1,4 +1,4 @@
-package com.pctf.datastructures.swardtooffer;
+package com.pctf.algorithm.swardtooffer;
 
 /**
  *
