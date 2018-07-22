@@ -1,7 +1,5 @@
 package com.pctf.algorithm.sort;
 
-import java.util.Arrays;
-
 public class InsertionSort implements Sorter {
     @Override
     public <AnyType extends Comparable<? super AnyType>> void sort(AnyType[] array) {
