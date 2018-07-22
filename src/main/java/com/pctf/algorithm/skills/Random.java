@@ -22,7 +22,7 @@ public class Random {
         return this.state;
     }
 
-    public double RandomBetween1() {
+    public double randomBetween1() {
         return (double) randomInt() / M;
     }
 }

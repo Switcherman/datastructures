@@ -4,7 +4,7 @@ public class Random48 {
     public static final long A = 25_214_903_917L;
     public static final long B = 48;
     public static final long C = 11;
-    public static final long M = (1L << 48);
+    public static final long M = (1L << B);
     public static final long MASK = M - 1;
 
     private long state;
@@ -18,7 +18,7 @@ public class Random48 {
     }
 
     public double randomBetween0And1() {
-        return (((long) (next(26)) << 27)) + next(27) / (double) (1L << 53);
+        return ((long) (next(26)) << 27) + next(27) / (double) (1L << 53);
     }
 
     private int next(int bits) {
