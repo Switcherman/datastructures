@@ -9,25 +9,27 @@ import java.util.ArrayList;
  */
 public class GetUglyNumber_SolutionSolution {
     public int GetUglyNumber_Solution(int index) {
-        if(index <= 0) {
-            return 0;
+        if(index < 7) {
+            return index;
         }
-        ArrayList<Integer> list = new ArrayList<>();
-        list.add(1);
-        int index2 = 0;
-        int index3 = 0;
-        int index5 = 0;
-        while(list.size() < index) {
-            int min = Math.min(2 * list.get(index2), Math.min(3 * list.get(index3), 5 * list.get(index5)));
-            list.add(min);
-            if(min == 2 * list.get(index2)) {
-                index2++;
-            } else if (min == 3 * list.get(index3)) {
-                index3++;
-            } else {
-                index5++;
+        int[] arr = new int[index];
+        int i2 = 0;
+        int i3 = 0;
+        int i5 = 0;
+        arr[0] = 1;
+        for(int i = 1; i < index; i++) {
+            int min = Math.min(arr[i2] * 2, Math.min(arr[i3] * 3, arr[i5] * 5));
+            arr[i] = min;
+            if(min == arr[i2] * 2) {
+                i2++;
+            }
+            if(min == arr[i3] * 3) {
+                i3++;
+            }
+            if(min == arr[i5] * 5) {
+                i5++;
             }
         }
-        return list.get(index - 1);
+        return arr[index - 1];
     }
 }
