@@ -34,14 +34,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindNumsAppearOnceSolution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindNumsAppearOnceSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindNumsAppearOnceSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="364">
+              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InversePairsSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/InversePairsSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -75,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/map/SMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/tree/AVLTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/swardtooffer/LeastKValueOfAVLTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/swardtooffer/RebuildBinaryTree.java" />
@@ -126,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/PrintMinNumberSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindNumsAppearOnceSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/InversePairsSolution.java" />
       </list>
     </option>
   </component>
@@ -462,7 +471,7 @@
       <workItem from="1533275872986" duration="383000" />
       <workItem from="1533278359292" duration="11000" />
       <workItem from="1533376066852" duration="2834000" />
-      <workItem from="1533389643737" duration="1312000" />
+      <workItem from="1533389643737" duration="1724000" />
     </task>
     <servers />
   </component>
@@ -499,7 +508,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77487000" />
+    <option name="totallyTimeSpent" value="77899000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,7 +533,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31636363" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29454544" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29333332" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20457797" />
@@ -556,13 +565,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="950" column="14" selection-start-line="950" selection-start-column="14" selection-end-line="950" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/datastructures/map/SMap.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/RebuildBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -893,11 +895,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindNumsAppearOnceSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="364">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/InversePairsSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
