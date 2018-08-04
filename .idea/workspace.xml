@@ -18,20 +18,19 @@
       <file leaf-file-name="NumberOf1Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/NumberOf1Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="190">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintMinNumberSolution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/PrintMinNumberSolution.java">
+      <file leaf-file-name="FirstNotRepeatingCharSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="475">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
               <folding>
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,7 +102,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindFirstSameNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/GetNumberOfKSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/GetNextSolution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/IsSymmetricalSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/MultiplySolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindPathSolution.java" />
@@ -117,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/GetUglyNumber_SolutionSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/NumberOf1Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/PrintMinNumberSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java" />
       </list>
     </option>
   </component>
@@ -142,9 +141,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -155,7 +153,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,6 +245,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -453,7 +451,8 @@
       <workItem from="1533218461484" duration="1533000" />
       <workItem from="1533275872986" duration="383000" />
       <workItem from="1533278359292" duration="11000" />
-      <workItem from="1533376066852" duration="2428000" />
+      <workItem from="1533376066852" duration="2834000" />
+      <workItem from="1533389643737" duration="426000" />
     </task>
     <servers />
   </component>
@@ -490,7 +489,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75769000" />
+    <option name="totallyTimeSpent" value="76601000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,7 +501,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -518,7 +517,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2955224" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15069222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20457797" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -732,7 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/IsSymmetricalSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
@@ -866,20 +864,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/NumberOf1Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/PrintMinNumberSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/PrintMinNumberSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/NumberOf1Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="190">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
           <folding>
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
