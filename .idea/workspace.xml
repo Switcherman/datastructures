@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f6cbd7f-d2ab-451f-9f33-7c0a9c54ef93" name="Default" comment="" />
+    <list default="true" id="8f6cbd7f-d2ab-451f-9f33-7c0a9c54ef93" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,44 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumberOf1Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/NumberOf1Solution.java">
+      <file leaf-file-name="FindContinuousSequenceSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindContinuousSequenceSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="589">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstNotRepeatingCharSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java">
+      <file leaf-file-name="SolutionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="114">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindNumsAppearOnceSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindNumsAppearOnceSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InversePairsSolution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/InversePairsSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -84,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/tree/AVLTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/swardtooffer/LeastKValueOfAVLTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/swardtooffer/RebuildBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/swardtooffer/BinaryToLinked.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/swardtooffer/SubStructureOfTree.java" />
@@ -133,8 +112,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/NumberOf1Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/PrintMinNumberSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindNumsAppearOnceSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/InversePairsSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindNumsAppearOnceSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindContinuousSequenceSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SolutionTest.java" />
       </list>
     </option>
   </component>
@@ -171,7 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,6 +244,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -291,18 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RandomTest.randomTest">
-    <configuration name="SeparateChainingHashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pctf.datastructures.hash.SeparateChainingHashTable" />
-      <module name="datastructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pctf.datastructures.hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SolutionTest.findContinuousSequenceSolutionTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -347,6 +317,23 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RandomTest" />
       <option name="METHOD_NAME" value="randomTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SolutionTest.findContinuousSequenceSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datastructures" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="findContinuousSequenceSolutionTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -413,19 +400,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SeparateChainingHashTable" />
       <item itemvalue="JUnit.HeapTest.BinaryHeapTest" />
       <item itemvalue="JUnit.HeapTest" />
       <item itemvalue="JUnit.SortTest.BubbleSortTest" />
       <item itemvalue="JUnit.RandomTest.randomTest" />
+      <item itemvalue="JUnit.SolutionTest.findContinuousSequenceSolutionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.findContinuousSequenceSolutionTest" />
         <item itemvalue="JUnit.RandomTest.randomTest" />
         <item itemvalue="JUnit.SortTest.BubbleSortTest" />
         <item itemvalue="JUnit.HeapTest.BinaryHeapTest" />
         <item itemvalue="JUnit.HeapTest" />
-        <item itemvalue="Application.SeparateChainingHashTable" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +458,9 @@
       <workItem from="1533275872986" duration="383000" />
       <workItem from="1533278359292" duration="11000" />
       <workItem from="1533376066852" duration="2834000" />
-      <workItem from="1533389643737" duration="1724000" />
+      <workItem from="1533389643737" duration="2289000" />
+      <workItem from="1533518186716" duration="621000" />
+      <workItem from="1533562629090" duration="1860000" />
     </task>
     <servers />
   </component>
@@ -508,7 +497,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77899000" />
+    <option name="totallyTimeSpent" value="80945000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -533,10 +522,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31636363" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29333332" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26909092" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20457797" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20958512" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -565,14 +554,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/datastructures/map/SMap.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/RebuildBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/datastructures/hash/MyHashTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -652,13 +633,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/skills.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1022">
-          <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RandomTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -876,6 +850,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/InversePairsSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindNumsAppearOnceSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/NumberOf1Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -883,30 +884,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstNotRepeatingCharSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindContinuousSequenceSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="589">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindNumsAppearOnceSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/InversePairsSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
