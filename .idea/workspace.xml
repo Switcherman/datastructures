@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f6cbd7f-d2ab-451f-9f33-7c0a9c54ef93" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SolutionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,11 +16,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LastRemaining_SolutionSolution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/LastRemaining_SolutionSolution.java">
+      <file leaf-file-name="Sum_SolutionSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/Sum_SolutionSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/AddSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrToIntSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/StrToIntSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="49" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolutionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+              <folding>
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="577" column="37" selection-start-line="577" selection-start-column="37" selection-end-line="577" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Character.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="6500" column="19" selection-start-line="6500" selection-start-column="19" selection-end-line="6500" selection-end-column="19" />
+              <folding>
+                <element signature="e#233921#233922#0" expanded="true" />
+                <element signature="e#233965#233966#0" expanded="true" />
+                <element signature="e#236253#236254#0" expanded="true" />
+                <element signature="e#236327#236328#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,9 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/heap/MyHeap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/datastructures/heap/BinaryHeap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/Soter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/BubleSoter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/Sorter.java" />
         <option value="$PROJECT_DIR$/src/test/java/HeapTest.java" />
@@ -97,14 +150,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/InversePairsSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindNumsAppearOnceSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FindContinuousSequenceSolution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/ReverseSentenceSolution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/StrToIntSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/LeftRotateStringSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/isContinuousSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/PrintSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/LeftToRightPrintSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/LastRemaining_SolutionSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/Sum_SolutionSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/AddSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/StrToIntSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StrToIntTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SolutionTest.java" />
       </list>
     </option>
   </component>
@@ -142,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,12 +272,43 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,26 +334,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.reverseSentenceSolutionTest">
+  <component name="RunManager" selected="JUnit.SolutionTest.strToIntTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="HeapTest.BinaryHeapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="datastructures" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HeapTest" />
-      <option name="METHOD_NAME" value="BinaryHeapTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="RandomTest.randomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="datastructures" />
@@ -310,6 +379,23 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
       <option name="METHOD_NAME" value="reverseSentenceSolutionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SolutionTest.strToIntTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datastructures" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="strToIntTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -376,19 +462,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.HeapTest.BinaryHeapTest" />
       <item itemvalue="JUnit.SortTest.BubbleSortTest" />
       <item itemvalue="JUnit.RandomTest.randomTest" />
       <item itemvalue="JUnit.SolutionTest.findContinuousSequenceSolutionTest" />
       <item itemvalue="JUnit.SolutionTest.reverseSentenceSolutionTest" />
+      <item itemvalue="JUnit.SolutionTest.strToIntTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.strToIntTest" />
         <item itemvalue="JUnit.SolutionTest.reverseSentenceSolutionTest" />
         <item itemvalue="JUnit.SolutionTest.findContinuousSequenceSolutionTest" />
         <item itemvalue="JUnit.RandomTest.randomTest" />
         <item itemvalue="JUnit.SortTest.BubbleSortTest" />
-        <item itemvalue="JUnit.HeapTest.BinaryHeapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +530,9 @@
       <workItem from="1534046106838" duration="2188000" />
       <workItem from="1534821371373" duration="335000" />
       <workItem from="1535422555733" duration="2739000" />
-      <workItem from="1535456972396" duration="1188000" />
+      <workItem from="1535456972396" duration="1424000" />
+      <workItem from="1535506069162" duration="41000" />
+      <workItem from="1535511552107" duration="3438000" />
     </task>
     <servers />
   </component>
@@ -481,7 +569,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91290000" />
+    <option name="totallyTimeSpent" value="95005000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,6 +586,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32848486" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -505,11 +594,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31636363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3154229" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3323383" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15867944" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16187434" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -519,7 +608,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32848486" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -546,42 +634,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/ShellSorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/BubbleSorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/Sorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="75" selection-start-line="4" selection-start-column="75" selection-end-line="4" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/skills.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/RandomTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/skills/Random48.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -841,7 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/StrToIntSolution.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/ReverseSentenceSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -853,13 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
           <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -892,8 +936,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/LastRemaining_SolutionSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="418">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/Sum_SolutionSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/AddSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/CharacterData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="6500" column="19" selection-start-line="6500" selection-start-column="19" selection-end-line="6500" selection-end-column="19" />
+          <folding>
+            <element signature="e#233921#233922#0" expanded="true" />
+            <element signature="e#233965#233966#0" expanded="true" />
+            <element signature="e#236253#236254#0" expanded="true" />
+            <element signature="e#236327#236328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="577" column="37" selection-start-line="577" selection-start-column="37" selection-end-line="577" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StrToIntTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+          <folding>
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/StrToIntSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>
