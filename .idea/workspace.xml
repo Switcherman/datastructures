@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f6cbd7f-d2ab-451f-9f33-7c0a9c54ef93" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SolutionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,35 +15,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DuplicateSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/DuplicateSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MatchSolution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/MatchSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstAppearingOnceSolution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstAppearingOnceSolution.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GetMedianSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/GetMedianSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxInWindowsSolution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/MaxInWindowsSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolutionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="583">
+              <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#777#778#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,8 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/Utils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/MergeSortor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/BubbleSorter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/sort/ShellSorter.java" />
@@ -125,10 +122,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/AddSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/StrToIntSolution.java" />
         <option value="$PROJECT_DIR$/src/test/java/StrToIntTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/DuplicateSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/MatchSolution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstAppearingOnceSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/GetMedianSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/MaxInWindowsSolution.java" />
       </list>
     </option>
   </component>
@@ -163,10 +162,12 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -276,7 +277,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,17 +302,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.strToIntTest">
+  <component name="RunManager" selected="JUnit.SolutionTest.maxInWindowsSolution">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RandomTest.randomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.findContinuousSequenceSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="datastructures" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RandomTest" />
-      <option name="METHOD_NAME" value="randomTest" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="findContinuousSequenceSolutionTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -323,13 +323,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SolutionTest.findContinuousSequenceSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.getMedianSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="datastructures" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="findContinuousSequenceSolutionTest" />
+      <option name="METHOD_NAME" value="getMedianSolutionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SolutionTest.maxInWindowsSolution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datastructures" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="maxInWindowsSolution" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -364,23 +381,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
       <option name="METHOD_NAME" value="strToIntTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SortTest.BubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="datastructures" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortTest" />
-      <option name="METHOD_NAME" value="BubbleSortTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -430,19 +430,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SortTest.BubbleSortTest" />
-      <item itemvalue="JUnit.RandomTest.randomTest" />
       <item itemvalue="JUnit.SolutionTest.findContinuousSequenceSolutionTest" />
       <item itemvalue="JUnit.SolutionTest.reverseSentenceSolutionTest" />
       <item itemvalue="JUnit.SolutionTest.strToIntTest" />
+      <item itemvalue="JUnit.SolutionTest.getMedianSolutionTest" />
+      <item itemvalue="JUnit.SolutionTest.maxInWindowsSolution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.maxInWindowsSolution" />
+        <item itemvalue="JUnit.SolutionTest.getMedianSolutionTest" />
         <item itemvalue="JUnit.SolutionTest.strToIntTest" />
         <item itemvalue="JUnit.SolutionTest.reverseSentenceSolutionTest" />
         <item itemvalue="JUnit.SolutionTest.findContinuousSequenceSolutionTest" />
-        <item itemvalue="JUnit.RandomTest.randomTest" />
-        <item itemvalue="JUnit.SortTest.BubbleSortTest" />
       </list>
     </recent_temporary>
   </component>
@@ -501,44 +501,45 @@
       <workItem from="1535456972396" duration="1424000" />
       <workItem from="1535506069162" duration="41000" />
       <workItem from="1535511552107" duration="3604000" />
-      <workItem from="1535527778554" duration="3077000" />
+      <workItem from="1535527778554" duration="3320000" />
+      <workItem from="1535698609845" duration="3366000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RandomTest_randomTest - 2018.07.22 at 16h 57m 48s.xml">
-      <configuration name="RandomTest.randomTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_getMedianSolutionTest - 2018.08.31 at 15h 20m 06s.xml">
+      <configuration name="SolutionTest.getMedianSolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RandomTest_randomTest - 2018.07.22 at 16h 58m 14s.xml">
-      <configuration name="RandomTest.randomTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_getMedianSolutionTest - 2018.08.31 at 15h 22m 22s.xml">
+      <configuration name="SolutionTest.getMedianSolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_findContinuousSequenceSolutionTest - 2018.08.06 at 23h 11m 29s.xml">
-      <configuration name="SolutionTest.findContinuousSequenceSolutionTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_getMedianSolutionTest - 2018.08.31 at 15h 23m 02s.xml">
+      <configuration name="SolutionTest.getMedianSolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_findContinuousSequenceSolutionTest - 2018.08.06 at 23h 12m 56s.xml">
-      <configuration name="SolutionTest.findContinuousSequenceSolutionTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_getMedianSolutionTest - 2018.08.31 at 15h 23m 15s.xml">
+      <configuration name="SolutionTest.getMedianSolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_findContinuousSequenceSolutionTest - 2018.08.06 at 23h 13m 08s.xml">
-      <configuration name="SolutionTest.findContinuousSequenceSolutionTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_getMedianSolutionTest - 2018.08.31 at 15h 23m 24s.xml">
+      <configuration name="SolutionTest.getMedianSolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_reverseSentenceSolutionTest - 2018.08.08 at 00h 28m 20s.xml">
-      <configuration name="SolutionTest.reverseSentenceSolutionTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_maxInWindowsSolution - 2018.08.31 at 15h 54m 29s.xml">
+      <configuration name="SolutionTest.maxInWindowsSolution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_reverseSentenceSolutionTest - 2018.08.08 at 00h 28m 41s.xml">
-      <configuration name="SolutionTest.reverseSentenceSolutionTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_maxInWindowsSolution - 2018.08.31 at 15h 54m 54s.xml">
+      <configuration name="SolutionTest.maxInWindowsSolution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_strToIntTest - 2018.08.29 at 14h 16m 29s.xml">
-      <configuration name="SolutionTest.strToIntTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_maxInWindowsSolution - 2018.08.31 at 15h 55m 06s.xml">
+      <configuration name="SolutionTest.maxInWindowsSolution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_strToIntTest - 2018.08.29 at 14h 16m 36s.xml">
-      <configuration name="SolutionTest.strToIntTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_maxInWindowsSolution - 2018.08.31 at 15h 55m 26s.xml">
+      <configuration name="SolutionTest.maxInWindowsSolution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_strToIntTest - 2018.08.29 at 14h 16m 42s.xml">
-      <configuration name="SolutionTest.strToIntTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_maxInWindowsSolution - 2018.08.31 at 15h 55m 42s.xml">
+      <configuration name="SolutionTest.maxInWindowsSolution" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98248000" />
+    <option name="totallyTimeSpent" value="101857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,24 +556,25 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32848486" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32935324" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3154229" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3323383" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16347177" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32935324" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3154229" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3323383" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16506922" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,7 +582,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32848486" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,24 +600,10 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/ReConstructBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/TreeMirror.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/OddBeforeEven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -932,21 +919,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/DuplicateSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        <state relative-caret-position="722">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           <folding>
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/DuplicateSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstAppearingOnceSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -960,13 +946,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/FirstAppearingOnceSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/GetMedianSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pctf/algorithm/swardtooffer/MaxInWindowsSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
