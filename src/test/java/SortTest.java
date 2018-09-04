@@ -23,7 +23,7 @@ public class SortTest {
     @Test
     public void BubbleSortTest(){
         Sorter sorter;
-        Integer[] testArray = Utils.createTestArray(1000000);
+        Integer[] testArray = Utils.createTestArray(100);
        // Utils.printArray(testArray);
         long startTime = System.currentTimeMillis();
 
@@ -62,6 +62,6 @@ public class SortTest {
         startTime = System.currentTimeMillis();
         sorter.sort(copy4);
         System.out.println("归并耗时" +( System.currentTimeMillis() - startTime )+ "ms");
-        // Utils.printArray(copy4);
+        Utils.printArray(copy4);
     }
 }

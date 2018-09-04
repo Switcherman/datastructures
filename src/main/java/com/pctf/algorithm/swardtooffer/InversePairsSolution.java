@@ -6,14 +6,14 @@ package com.pctf.algorithm.swardtooffer;
  */
 public class InversePairsSolution {
 
-    public int InversePairs(int [] array) {
-        if(array == null || array.length <= 1) {
+    public int InversePairs(int[] array) {
+        if (array == null || array.length <= 1) {
             return 0;
         }
         int count = 0;
-        for(int i = 0; i < array.length - 1; i++) {
-            for(int j = i + 1; j < array.length; j++) {
-                if(array[i] > array[j]) {
+        for (int i = 0; i < array.length - 1; i++) {
+            for (int j = i + 1; j < array.length; j++) {
+                if (array[i] > array[j]) {
                     count++;
                 }
             }
