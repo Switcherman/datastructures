@@ -36,4 +36,12 @@ public class SolutionTest {
         int size = 3;
         System.out.println(new MaxInWindowsSolution().maxInWindows(num, 3));
     }
+
+    @Test
+    public void movingCountSolutionTest() {
+        MovingCountSolution solution = new MovingCountSolution();
+        int result = solution.movingCount(15, 20, 20);
+        System.out.println(result);
+       // System.out.println(solution.couldArrive(15, 7, 8));
+    }
 }
