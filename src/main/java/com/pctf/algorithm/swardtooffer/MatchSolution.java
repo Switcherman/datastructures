@@ -7,9 +7,34 @@ package com.pctf.algorithm.swardtooffer;
 public class MatchSolution {
 
     public boolean match(char[] str, char[] pattern) {
-        boolean result = true;
+        if (str == null || pattern == null) {
+            return false;
+        }
+        int sIndex = 0;
+        int pIndex = 0;
+        while (sIndex < str.length && pIndex < pattern.length) {
+            if (str[sIndex] == pattern[pIndex] || pattern[pIndex] == '.') { //单个匹配或匹配单个通配符
+                sIndex++;
+                pIndex++;
+                continue;
+            }
+            if ('*' == pattern[pIndex]) { // 匹配*
+                if (pIndex != 0 && pattern[pIndex - 1] == str[sIndex]) {
+                    sIndex++;
+                    continue;
+                } else {
+                    pIndex++;
+                    continue;
+                }
+            }
+            if (pIndex == pattern.length - 1 || pattern[pIndex + 1] != '*') {
+                return false;
+            } else {
+                pIndex ++;
+            }
+        }
 
-        return result;
+        return sIndex == str.length && pIndex == pattern.length;
     }
 
 }

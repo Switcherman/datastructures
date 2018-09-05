@@ -53,4 +53,11 @@ public class SolutionTest {
         HasPathSolution solution = new HasPathSolution();
         System.out.println(solution.hasPath(matrix, 3, 4, str));
     }
+
+    @Test
+    public void matchTest() {
+        String str = "";
+        String match = ".*";
+        System.out.println(new MatchSolution().match(str.toCharArray(), match.toCharArray()));
+    }
 }
