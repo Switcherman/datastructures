@@ -44,4 +44,13 @@ public class SolutionTest {
         System.out.println(result);
        // System.out.println(solution.couldArrive(15, 7, 8));
     }
+
+    @Test
+    public void hasPathTest() {
+        char[] matrix = new char[] {'a', 'b', 'c', 'e', 's', 'f', 'c', 's', 'a', 'd', 'e', 'e'};
+        //char[] str = new char[]{'b','c','c','e','d'};
+        char[] str = new char[]{'a','b','c','d'};
+        HasPathSolution solution = new HasPathSolution();
+        System.out.println(solution.hasPath(matrix, 3, 4, str));
+    }
 }
