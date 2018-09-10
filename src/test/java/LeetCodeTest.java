@@ -1,3 +1,4 @@
+import com.pctf.leetcode.CombinationSumSolution;
 import com.pctf.leetcode.NextPermutationSolution;
 import com.pctf.leetcode.ThreeSumClosestSolution;
 import com.pctf.leetcode.ThreeSumSolution;
@@ -24,5 +25,12 @@ public class LeetCodeTest {
         int[] arr = {1, 1};
         new NextPermutationSolution().nextPermutation(arr);
         System.out.println(arr);
+    }
+
+    @Test
+    public void combinationSumTest() {
+        int[] arr = {2,3,6,7};
+        int target = 7;
+        System.out.println(new CombinationSumSolution().combinationSum(arr, target));
     }
 }
