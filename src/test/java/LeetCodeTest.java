@@ -1,7 +1,4 @@
-import com.pctf.leetcode.CombinationSumSolution;
-import com.pctf.leetcode.NextPermutationSolution;
-import com.pctf.leetcode.ThreeSumClosestSolution;
-import com.pctf.leetcode.ThreeSumSolution;
+import com.pctf.leetcode.*;
 import com.sun.org.apache.bcel.internal.generic.NEW;
 import org.junit.Test;
 
@@ -32,5 +29,11 @@ public class LeetCodeTest {
         int[] arr = {2,3,6,7};
         int target = 7;
         System.out.println(new CombinationSumSolution().combinationSum(arr, target));
+    }
+
+    @Test
+    public void searchMatrixTest() {
+        int[][] matrix = {{1,3,5,7},{10,11,16,20},{23,30,34,50}};
+        System.out.println(new SearchMatrixSolution().searchMatrix(matrix, 100));
     }
 }
