@@ -43,4 +43,10 @@ public class LeetCodeTest {
         String s = "AE";
         System.out.println(new ExistSolution().exist(matrix, s));
     }
+
+    @Test
+    public void duplicateTest() {
+        int[] nums = {1,1,1,2,2,3};
+        new RemoveDuplicatesSolution().removeDuplicates(nums);
+    }
 }
