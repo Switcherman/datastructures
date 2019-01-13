@@ -23,11 +23,9 @@ public class SortTest {
     @Test
     public void BubbleSortTest(){
         Sorter sorter;
-        Integer[] testArray = Utils.createTestArray(100);
+        Integer[] testArray = Utils.createTestArray(10000);
        // Utils.printArray(testArray);
         long startTime = System.currentTimeMillis();
-
-
 
         Integer[] copy2 = testArray.clone();
         startTime = System.currentTimeMillis();
@@ -44,6 +42,7 @@ public class SortTest {
         //System.out.println(list);
         System.out.println("JDK自带排序耗时:" +( System.currentTimeMillis() - startTime )+ "ms");
 
+        ArrayList<Integer> lists = new ArrayList<>();
 
        /* Integer[] copy1 = testArray.clone();
         sorter = new BubbleSorter();

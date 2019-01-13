@@ -60,4 +60,6 @@ public class SolutionTest {
         String match = ".*";
         System.out.println(new MatchSolution().match(str.toCharArray(), match.toCharArray()));
     }
+
+
 }
