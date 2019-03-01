@@ -22,15 +22,16 @@ public class SortTest {
 
     @Test
     public void BubbleSortTest(){
+        System.out.println(Integer.MAX_VALUE);
         Sorter sorter;
-        Integer[] testArray = Utils.createTestArray(10000);
+        Integer[] testArray = Utils.createTestArray(1000000);
        // Utils.printArray(testArray);
         long startTime = System.currentTimeMillis();
 
         Integer[] copy2 = testArray.clone();
         startTime = System.currentTimeMillis();
         sorter = new ShellSorter();
-        sorter.sort(copy2);
+        //sorter.sort(copy2);
         System.out.println("希尔耗时" +( System.currentTimeMillis() - startTime )+ "ms");
         //Utils.printArray(copy2);
 
@@ -61,6 +62,13 @@ public class SortTest {
         startTime = System.currentTimeMillis();
         sorter.sort(copy4);
         System.out.println("归并耗时" +( System.currentTimeMillis() - startTime )+ "ms");
-        Utils.printArray(copy4);
+        //Utils.printArray(copy4);
+
+        Integer[] copy5 = testArray.clone();
+        sorter = new QuickSorter();
+        startTime = System.currentTimeMillis();
+        sorter.sort(copy5);
+        System.out.println("快排耗时" +( System.currentTimeMillis() - startTime )+ "ms");
+        //Utils.printArray(copy5);
     }
 }
